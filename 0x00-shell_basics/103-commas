@@ -1,1 +1,2 @@
- ls -amvp
+#!/bin/bash
+ls -amvp
